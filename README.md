@@ -2,11 +2,11 @@
 
 First-year Mechatronics Engineering student at the University of Waterloo.
 
-Most of what I've built so far has been small vehicles and robots, and most of what I've learned came from working out why they stopped working.
+Most of what I've built so far has been small vehicles and robots, and most of what I've learned came from working out why they've stopped working.
 
 ### What I'm working on
 
-I'm on a Waterloo student design team, on both the electrical and dynamics subteams. I'm learning Altium for PCB design and MATLAB for analysis, and getting more comfortable in SolidWorks and AutoCAD.
+I'm on the Waterloo student design team MidnightSun and Baja Racing, on both the electrical and dynamics subteams. I'm learning Altium for PCB design and MATLAB for analysis, and gaining more experience in SolidWorks and AutoCAD.
 
 ### Projects
 
